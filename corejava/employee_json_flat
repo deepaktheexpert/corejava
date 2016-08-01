@@ -1,0 +1,13 @@
+"employess":{
+
+	"employee1":{
+		"empid":"121",
+		"empname":"Deepak"
+	},
+	"employee2":{
+		"empid":"122",
+		"empname":"Rajesh"
+	},
+	"employee3":{},
+	"employee4":{}
+}
